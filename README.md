@@ -24,7 +24,7 @@ Responsive design using HTML, CSS, and Google Fonts
 # Installation
 1 . Clone the repository:
 
-    git clone <[repository_url](https://github.com/Madhumad36/portofolio_flask_website)>
+    git clone <[repository_url](https://github.com/Manisha2704860/Portfolio-website/tree/main)>
     cd portfolio_flask
 
 2 . Install Flask:
