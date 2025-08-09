@@ -4,15 +4,11 @@ A simple personal portfolio website built with Flask, featuring a homepage, cont
 # Features
 Home page with introduction
 
-
 Contact page with form
-
 
 Styled thank-you page with fade-in animation and auto-redirect
 
-
 Responsive design using HTML, CSS, and Google Fonts
-
 
 # Project Structure
 ##portfolio_flask/
