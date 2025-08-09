@@ -7,7 +7,7 @@ Contact page with form
 Styled thank-you page with fade-in animation and auto-redirect
 Responsive design using HTML, CSS, and Google Fonts
 # Project Structure
-'
+##
 portfolio_flask/
 │
 ├── app.py
@@ -17,7 +17,7 @@ portfolio_flask/
 │   └── thankyou.html
 └── static/
     └── style.css
-    '
+    
 # Installation
 1 . Clone the repository:
 
