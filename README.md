@@ -19,7 +19,7 @@ Responsive design using HTML, CSS, and Google Fonts
     │   ├── contact.html
     │   └── thankyou.html
     └── static/
-    └── style.css
+        └── style.css
     
 # Installation
 1 . Clone the repository:
