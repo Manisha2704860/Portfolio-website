@@ -11,45 +11,42 @@ Styled thank-you page with fade-in animation and auto-redirect
 Responsive design using HTML, CSS, and Google Fonts
 
 # Project Structure
-##portfolio_flask/
-│
-├── app.py
-├── templates/
-│   ├── index.html
-│   ├── contact.html
-│   └── thankyou.html
-└── static/
+    portfolio_flask/
+    │  
+    ├── app.py
+    ├── templates/
+    │   ├── index.html
+    │   ├── contact.html
+    │   └── thankyou.html
+    └── static/
     └── style.css
     
 # Installation
 1 . Clone the repository:
 
-git clone <[repository_url](https://github.com/Madhumad36/portofolio_flask_website)>
-cd portfolio_flask
-
+    git clone <[repository_url](https://github.com/Madhumad36/portofolio_flask_website)>
+    cd portfolio_flask
 
 2 . Install Flask:
 
-pip install flask
+    pip install flask
 
 
 3 . Run the app:
 
-python app.py
-#if you are using new version of python , you can also run
-python3 app.pyi 
+    python app.py
+    #if you are using new version of python , you can also run
+    python3 app.pyi 
 
 
 4 . Open the application in your browser:
 
-http://127.0.0.1:5000
+    http://127.0.0.1:5000
 
 
 # Usage
 Navigate to the home page for an introduction.
 
-
 Use the contact form to submit a message.
-
 
 After submission, the thank-you page will appear and redirect back to the homepage.
